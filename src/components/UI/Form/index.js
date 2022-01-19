@@ -1,3 +1,5 @@
 import Form from './Form.svelte';
 import Switch from './Switch.svelte';
-export { Form, Switch }
+import InputText from './InputText.svelte';
+import Button from './Button.svelte';
+export { Form, Switch, InputText, Button };
